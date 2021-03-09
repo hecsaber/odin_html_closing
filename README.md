@@ -1,1 +1,5 @@
-# odin_html_closing
+theodinproject
+
+closing exercise of HTML and CSS
+
+simple grid system / remake of the site of the exercise
